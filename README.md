@@ -23,6 +23,9 @@ Remake do clássico jogo da cobrinha, desenvolvido como meu primeiro projeto pr�
 ### 🔤 Caça-Palavras  
 Jogo simples em que o usuário encontra palavras escondidas em uma matriz. Exercício de manipulação de arrays e interação com o DOM.
 
+### 💣 Campo Minado  
+Jogo inspirado no clássico de raciocínio lógico. Desenvolvi a lógica de geração do campo, detecção de bombas e marcação de células, com interface simples e intuitiva. 
+
 ### 💰 Gestor de Gastos  
 Projeto que coleta dados do usuário, organiza despesas em tabela e calcula quanto sobra do salário. Simples, mas muito útil.
 

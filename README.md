@@ -29,7 +29,7 @@ Jogo inspirado no clássico de raciocínio lógico. Desenvolvi a lógica de gera
 ### 💰 Gestor de Gastos  
 Projeto que coleta dados do usuário, organiza despesas em tabela e calcula quanto sobra do salário. Simples, mas muito útil.
 
-### 🧮 Calculadora Magic Number *(em desenvolvimento)*  
+### 🧮 Calculadora Magic Number
 Ferramenta para investidores estimarem o valor necessário para alcançar liberdade financeira, com base nos seus rendimentos e metas.
 
 ### 🌐 Portfólio Pessoal  

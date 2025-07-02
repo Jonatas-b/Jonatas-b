@@ -30,7 +30,7 @@ Projeto que coleta dados do usuário, organiza despesas em tabela e calcula quan
 Ferramenta para investidores estimarem o valor necessário para alcançar liberdade financeira, com base nos seus rendimentos e metas.
 
 ### 🌐 Portfólio Pessoal  
-Este próprio site! Feito com HTML, CSS e JavaScript puro, inspirado em portfólios profissionais modernos e com foco em responsividade.
+Feito com HTML, CSS e JavaScript puro, inspirado em portfólios profissionais modernos e com foco em responsividade.
 
 ---
 

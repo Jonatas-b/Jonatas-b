@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Jônatas Emanuel
 
-🎓 Estudante de Desenvolvimento de Software | 17 anos  
-💡 Interesse por front-end, back-end e tecnologias em geral  
+🎓 Estudante de Desenvolvimento de Software | 18 anos  
+💡 Interesse por front-end, back-end e design  
 📚 Sempre aprendendo algo novo  
-🚀 Construindo projetos práticos com HTML, CSS, JavaScript e muito mais  
+🚀 Construindo projetos práticos com HTML, CSS, JavaScript e muito mais
 
 ---
 

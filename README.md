@@ -15,13 +15,10 @@ Meu objetivo é ser um programador versátil, com conhecimento em diversas área
 
 ---
 
-## 💼 Projetos
+## 💼 Principais Projetos
 
 ### 🐍 Snake Game  
 Remake do clássico jogo da cobrinha, desenvolvido como meu primeiro projeto prático. Interface criada por mim, com lógica de movimentação e colisões.
-
-### 🔤 Caça-Palavras  
-Jogo simples em que o usuário encontra palavras escondidas em uma matriz. Exercício de manipulação de arrays e interação com o DOM.
 
 ### 💣 Campo Minado  
 Jogo inspirado no clássico de raciocínio lógico. Desenvolvi a lógica de geração do campo, detecção de bombas e marcação de células, com interface simples e intuitiva. 
